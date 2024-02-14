@@ -1,2 +1,2 @@
-# CSC372-2022-23-CW
+# Optimisation with multiple constraints
 Implemented random search and simulated annealing for constrained optimisation
